@@ -40,5 +40,5 @@ Com o banco de dados corrigido e saneado, o relatório gerencial foi estruturado
 * **Análise Horizontal:** Avaliação comparativa de evolução e desempenho financeiro entre os meses de referência.
 * **Layout Corporativo:** Alinhamento visual utilizando boas práticas de UI/UX para facilitar o consumo por diretores e CFOs.
 
-<img src="./dashboard_dre1.jpg" width="100%">  
-<img src="./dashboard_dre2.jpg" width="100%">
+<img src="./dashboard_dre1.png" width="100%">  
+<img src="./dashboard_dre2.png" width="100%">
