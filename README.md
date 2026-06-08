@@ -1,4 +1,4 @@
-# 📉 Otimização de Pipeline de ETL e Análise Financeira Gerencial
+# 📉 Otimização de Pipeline/ETL e Análise Financeira Gerencial
 
 Este repositório apresenta a resolução completa de um case técnico avançado de engenharia e análise de dados para o setor de consultoria de gestão. O projeto engloba desde a depuração de erros em fluxos de integração legados (*Pentaho Data Integration*), migração de arquitetura para código moderno em Python, até a entrega de uma estrutura analítica de Demonstração do Resultado do Exercício (DRE) no Power BI.
 
